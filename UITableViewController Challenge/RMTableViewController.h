@@ -1,5 +1,5 @@
 //
-//  RMViewController.h
+//  RMTableViewController.h
 //  UITableViewController Challenge
 //
 //  Created by Ryan Maturski on 5/28/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface RMViewController : UIViewController
+@interface RMTableViewController : UITableViewController
 
 @end
